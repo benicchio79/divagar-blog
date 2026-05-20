@@ -27,7 +27,7 @@ Parte do meu inferno comunicacional são os links do Instagram, enviados especia
 
 Um aspecto que me deixa com os cabelos (ainda mais) brancos é que o Instagram é um condomínio fechado. Assim como os similares urbanos, ele não pertence à “cidade da internet”, mas apenas se utiliza do espaço (digital) comum para criar um mundo à parte.
 
-Quem não aceitou os termos do Mark Zuckerberg e não usa o aplicativo, não consegue ver o link sem passar por uma cancela, contando com a possibilidade de acesso ao conteúdo ser negada.
+Quem não aceitou os termos do Mark Zuckerberg e não usa o aplicativo, não consegue ver o link sem passar por uma cancela, contando com a possibilidade do acesso ao conteúdo ser negada.
 
 O portão é mais fechado no celular: clicar em um link sem ter o Instagram geralmente te leva direto para a loja de aplicativos. Na melhor das hipóteses, o forasteiro recebe um popup na tela, mas se tentar caminhar por outras ruas do conteúdo, será novamente barrado pela segurança do condomínio.
 
@@ -35,17 +35,17 @@ No computador a experiência é um pouco mais suave: em vez de apontar uma arma 
 
 {% include image-with-caption.html src="/assets/images/2026-05/20-popup.jpg" alt="popup sincero" %}
 
-Google e Meta encabeçam o maior oligopólio informacional e publicitário da história humana. Enquanto o buscador capturou e reformatou o conteúdo da internet estabelecendo a dinâmica de anúncios e SEO (adequação de sites ao formato publicitário do Google), a Meta deu um passo além: capturou a comunicação entre as pessoas e, numa escala mais profunda, está reformatando a subjetividade humana.
+Google e Meta encabeçam o maior oligopólio informacional e publicitário da história humana. Enquanto o buscador capturou e reformatou o conteúdo da internet, estabelecendo a dinâmica de anúncios e SEO (adequação de sites ao formato publicitário do Google), a Meta deu um passo além: capturou a comunicação entre as pessoas e, numa escala mais profunda, está reformatando a subjetividade humana.
 
-A tríade de aplicativos da Meta é uma máquina publicitária perfeita. Instagram, Facebook e WhatsApp são uma espécie de Mefistófoles do mundo digital: em troca da satisfação eterna da dopamina, Fausto entrega a sua alma para a empresa.
+A tríade de aplicativos da Meta é uma máquina publicitária perfeita. Instagram, Facebook e WhatsApp são uma espécie de Mefistófoles do mundo digital: em troca da satisfação eterna da dopamina, Fausto entrega sua alma para a empresa.
 
 Não à toa, o primeiro grande escândalo de manipulação política digital deste século, o da Cambdridge Analytica, em 2018, envolveu o uso de dados da Meta para direcionar propaganda política a perfis específicos de pessoas.
 
 A Meta não precisa escutar a sua conversa ligando sorrateiramente o microfone do celular nem ler as suas mensagens no WhatsApp para te apresentar uma propaganda sedutora de produto ou ideologia no Instagram. 
 
-A sensação de que o aplicativo “adivinhou o que você está pensando” não é nenhuma espionagem clandestina, ela é exatamente o que você topou que fosse feito com os seus dados quando aceitou os termos de uso.
+A sensação de que o aplicativo “adivinhou o que você está pensando” não é fruto de nenhuma espionagem clandestina, ela é exatamente o que você topou que fosse feito com os seus dados quando aceitou os termos de uso.
 
-A empresa já sabe o que você gosta através das suas curtidas e hábitos de uso no Instagram e no Facebook. O WhatsApp adiciona uma camada de informação sobre as suas relações pessoais: com quem você troca mensagens, em quais horários, com qual frequência, etc. 
+A empresa já sabe o que você gosta através das suas curtidas e hábitos no Instagram e no Facebook. O WhatsApp adiciona uma camada de informação sobre as suas relações pessoais: com quem você troca mensagens, em quais horários, com qual frequência, etc. 
 
 E se qualquer um dos aplicativos da Meta tiver acesso à localização do celular, dá pra saber também com quem você esteve ou por onde passou. É só bater tudo no liquidificador e mostrar no Feed. Exatamente aquilo que você queria ver mas ainda não sabia que estava querendo.
 
