@@ -31,7 +31,7 @@ Quem não aceitou os termos do Mark Zuckerberg e não usa o aplicativo, não con
 
 O portão é mais fechado no celular: clicar em um link sem ter o Instagram geralmente te leva direto para a loja de aplicativos. Na melhor das hipóteses, o forasteiro recebe um popup na tela, mas se tentar caminhar por outras ruas do conteúdo, será novamente barrado pela segurança do condomínio.
 
-No computador a experiência é um pouco mais suave: em vez de apontar uma arma e dizer “mão na cabeça e documento”, o guarda só acende uma lanterna na sua cara e pergunta o que você está fazendo por essas bandas sem ter aderido ao esquema publicitário da empresa.
+No computador a experiência é um pouco mais suave: em vez de apontar uma arma e dizer “mão na cabeça e número do celular”, o guarda só acende uma lanterna na sua cara e pergunta o que você está fazendo por essas bandas sem ter aderido ao esquema publicitário da empresa.
 
 {% include image-with-caption.html src="/assets/images/2026-05/20-popup.jpg" alt="popup sincero" %}
 
