@@ -15,14 +15,15 @@ permalink: /outros-lugares/
 ***
 
 Gosto de visitar estes espaços:
-- [Fluxo](https://fluxo.net/) - boletim do fim do mundo e calma urgente
-- [Manual do Usuário](https://manualdousuario.net) - um espaço calmo sobre tecnologia
-- [Lerama](https://lerama.pcdomanual.com) - agregador de blogs brasileiros
-- [sol2070](https://sol2070.in/)- inspiração para este blog com ótimos textos
-- [OperaMundi](https://operamundi.uol.com.br)- jornalismo sobre o brasil e o mundo
-- [Crise Crise Crise](https://crise.love) - apenas isso
-- [Nowtopians](https://nowtopians.com) - a utopia do agora
-- [Jacobina](https://jacobin.com.br) - revista de esquerda radical 
+- [Fluxo](https://fluxo.net/)
+- [Manual do Usuário](https://manualdousuario.net)
+- [Lerama](https://lerama.pcdomanual.com)
+- [sol2070](https://sol2070.in/)
+- [OperaMundi](https://operamundi.uol.com.br)
+- [Crise Crise Crise](https://crise.love)
+- [Nowtopians](https://nowtopians.com)
+- [Jacobina](https://jacobin.com.br)
+- [O substack de Bruna](https://brunacastanheira.substack.com) 
 
 Escuto estes podcasts:
 - [Viracasacas](https://viracasacas.wordpress.com)
