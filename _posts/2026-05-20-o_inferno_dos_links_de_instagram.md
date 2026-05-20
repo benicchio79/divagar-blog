@@ -27,7 +27,7 @@ Parte do meu inferno comunicacional são os links do Instagram, enviados especia
 
 Um aspecto que me deixa com os cabelos (ainda mais) brancos é que o Instagram é um condomínio fechado. Assim como os similares urbanos, ele não pertence à “cidade da internet”, mas apenas se utiliza do espaço (digital) comum para criar um mundo à parte.
 
-Quem não aceitou os termos do Mark Zuckerberg e não usa o aplicativo, não consegue ver o link sem passar por uma cancela, contando com a possibilidade do acesso ao conteúdo ser negada.
+Quem não aceitou os termos do Mark Zuckerberg e não usa o aplicativo, não consegue ver o link sem passar por uma cancela, contando com a possibilidade de acesso ao conteúdo ser negada.
 
 O portão é mais fechado no celular: clicar em um link sem ter o Instagram geralmente te leva direto para a loja de aplicativos. Na melhor das hipóteses, o forasteiro recebe um popup na tela, mas se tentar caminhar por outras ruas do conteúdo, será novamente barrado pela segurança do condomínio.
 
@@ -51,7 +51,7 @@ E se qualquer um dos aplicativos da Meta tiver acesso à localização do celula
 
 ***
 
-Além da máquina perfeita de manipulação dos desejos, o Instagram está reformatando as formas como nos relacionamos com indivíduos e com a sociedade.
+Além de compor a máquina perfeita de manipulação dos desejos, o Instagram está reformatando as formas como nos relacionamos com indivíduos e com a sociedade.
 
 No âmbito das relações privadas, o aplicativo é um espaço de voyeurismo e anti-sociabilidade: ninguém mais precisa “estar” com o outro para saber o que esse outro está fazendo, o que está comendo, com quem está saindo ou como foi o aniversário dos filhos. Não é preciso sequer estabelecer uma comunicação com este outro, um coraçãozinho de pixels já basta.
 
@@ -59,7 +59,7 @@ Na relação com a sociedade, a mistura é de empreendedorismo precarizado com i
 
 No primeiro aspecto, o Instagram sugou boa parte do “rosto público” de profissionais liberais, artistas e até empresas, que se vêem compelidos a ter um perfil fechado na plataforma em vez de criar um site público. Todos estão sujeitos às cobranças de dízimo para impulsionamento e manipulações de visibilidade, de acordo com regras opacas estabelecidas pela empresa.
 
-Mark Fisher (ele novamente) recupera o conceito de “interpassividade”, cunhado pelo psicanalista Robert Pfaller e aprofundado por Slavoj Žižek, para falar sobre dinâmicas do capitalismo tardio opostas à interatividade. 
+Mark Fisher (ele novamente) recupera o conceito de “interpassividade”, cunhado pelo psicanalista Robert Pfaller e aprofundado por Slavoj Žižek, para falar sobre dinâmicas comportamentais no capitalismo tardio opostas à interatividade. 
 
 Em linhas gerais, trata-se da delegação de uma ação ou posicionamento a terceiros. 
 
@@ -67,7 +67,7 @@ Ficamos satisfeitos apenas por assistir ou encaminhar algo que “nos representa
 
 ***
 
-Existe todo um debate sobre a necessidade de disputar politicamente o espaço virtual nestas plataformas de mídias sociais. Cada vez mais acredito que essa pode ser uma opção tática pontual, mas não estratégica. 
+Existe todo um debate sobre a necessidade de disputar politicamente o espaço virtual nestas plataformas de mídias sociais. Cada vez mais acredito que essa pode ser uma opção tática pontual, mas não uma estratégia. 
 
 A médio e longo prazo, essas plataformas deveriam ser vistas como o Palácio de Versalhes na década de 1780: um espaço a ser saqueado, com símbolos destruídos, reis depostos e os bens confiscados. Aí poderíamos construir um novo regime de comunicação digital.
 
