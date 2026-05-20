@@ -73,4 +73,4 @@ A médio e longo prazo, essas plataformas deveriam ser vistas como o Palácio de
 
 Por hora, uma [opção individual mais saudável](https://www.divagar.blog/2026/04/27/ambientalismo_da_mente/) pode ser evitar o uso e cultivar uma experiência comunicacional menos ruidosa. 
 
-Enquanto isso, continuarei a ativar meu filtro anti-publicidade da infância, dando “mudo” em todo link do Instagram que chega em grupo de WhatsApp.
+Enquanto isso, continuarei a ativar meu filtro anti-publicidade da infância, "botando no mudo” todo link do Instagram que chega em grupo de WhatsApp.
