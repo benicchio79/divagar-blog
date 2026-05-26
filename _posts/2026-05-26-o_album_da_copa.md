@@ -37,7 +37,7 @@ Faz parte. A experiência de lidar com os dilemas da infância tem “um pouco d
 
 {% include image-with-caption.html src="/assets/images/2026-05/26-soccer_world_cup.jpg" alt="We no speak americano" %}
 
-Um aspecto do álbum me deixou intrigado, pra não dizer espantado: o conteúdo está quase todo escrito em inglês. 
+Um aspecto do álbum me deixou intrigado, pra não dizer espantado: o conteúdo está quase todo escrito em inglês<sup>*</sup>. 
 
 Nomes de países e cidades, dias da semana, meses e até a cartinha do chefe do cassino: tudo está na língua que já foi de Shakespeare e agora é de Trump. Você não precisa ser o Aldo Rebelo (e é melhor que não seja) pra achar bizarro.
 
@@ -52,3 +52,7 @@ Só que essas figurinhas não vêm no pacotinho da banca, mas sim nas embalagens
 No final das contas, para completar de fato o álbum é necessário, além dos R$ 1 mil, no mínimo 8,4 litros de açúcar, cafeína e embalagens plásticas. Isso considerando a hipótese inexistente de não tirar nenhuma figurinha repetida também nas garrafas de Coca-Cola.
 
 Welcome to the Fifa World Cup<sup>TM</sup>
+
+***
+
+<sup>*</sup> PS: depois de publicar o texto, soube que o o álbum com textos em inglês é um padrão desde 2010.
