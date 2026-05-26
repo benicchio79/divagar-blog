@@ -45,7 +45,7 @@ E tem propaganda? Tem sim senhor! No momento em que cresce a pressão para reduz
 
 Além dos aplicativos, com anúncios também em inglês, uma propaganda de cartão de crédito (do Banco do Brasil, vale notar) acompanha o álbum. É importante cativar desde já o público do futuro Desenrola 11.0.
 
-Para fechar o combo de inadequação à infância, algumas páginas do tem espaço para figurinhas patrocinadas pela Coca-Cola. 
+Para fechar o combo de inadequação à infância, algumas páginas têm espaço para figurinhas patrocinadas pela Coca-Cola. 
 
 Só que essas figurinhas não vêm no pacotinho da banca, mas sim nas embalagens acima de 600ml do refrigerante. E não em todas, já que o esquema é o mesmo do palito premiado de sorvete, a melhor loteria infantil das décadas de 80 e 90.
 
